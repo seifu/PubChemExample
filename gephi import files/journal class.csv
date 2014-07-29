@@ -1,0 +1,1105 @@
+ID;jornal type
+0;Cancer
+1;Breast Cancer
+2;Breast Cancer
+3;Breast Cancer
+4;Pulmonology
+5;Apoptosis
+6;Breast Cancer
+7;Breast Cancer
+8;Bioinformatics
+9;Breast Cancer
+10;Breast Cancer
+11;Cancer
+12;Cancer
+13;Breast Cancer
+14;Cancer
+15;Breast Cancer
+16;Bioinformatics
+17;Bioinformatics
+18;Breast Cancer
+19;Bioinformatics
+20;Ayurveda
+21;Bioinformatics
+22;Ayurveda
+23;Breast Cancer
+24;Breast Cancer
+25;Breast Cancer
+26;Breast Cancer
+27;Cancer
+28;Cancer
+29;Cancer
+30;Hematology
+31;Breast Cancer
+32;Breast Cancer
+33;Breast Cancer
+34;Breast Cancer
+35;Cancer
+36;pediatria
+37;General Health
+38;Blood Canver
+39;Cancer
+40;Cancer
+41;Infectious Diseases
+42;Breast Cancer
+43;Breast Cancer
+44;Breast Cancer
+45;Breast Cancer
+46;Breast Cancer
+47;Breast Cancer
+48;Breast Cancer
+49;Breast Cancer
+50;autoimmune diseases
+51;Breast Cancer
+52;Breast Cancer
+53;Cancer
+54;Breast Cancer
+55;Breast Cancer
+56;Breast Cancer
+57;Cancer
+58;health services
+59;Ayurveda
+60;Breast Cancer
+61;Hematology
+62;gerontology
+63;Breast Cancer
+64;Hematology
+65;Breast Cancer
+66;Blood Canver
+67;Neurosurgery
+68;Alternative Medicine
+69;Breast Cancer
+70;Breast Cancer
+71;Breast Cancer
+72;Breast Cancer
+73;Breast Cancer
+74;autoimmune diseases
+75;Breast Cancer
+76;Cancer
+77;Cancer
+78;Breast Cancer
+79;Breast Cancer
+80;Breast Cancer
+81;Breast Cancer
+82;Breast Cancer
+83;Cancer
+84;Breast Cancer
+85;Gastroenterology
+86;Infectious Diseases
+87;Breast Cancer
+88;Cancer
+89;Breast Cancer
+90;Breast Cancer
+91;Cancer
+92;Infectious Diseases
+93;Breast Cancer
+94;pharmacology
+95;Breast Cancer
+96;Cancer
+97;Breast Cancer
+98;Apoptosis
+99;Breast Cancer
+100;Cancer
+101;Breast Cancer
+102;Breast Cancer
+103;Breast Cancer
+104;Breast Cancer
+105;Breast Cancer
+106;Breast Cancer
+107;Hematology
+108;Autophagy
+109;Breast Cancer
+110;Breast Cancer
+111;Ayurveda
+112;Infectious Diseases
+113;Breast Cancer
+114;Breast Cancer
+115;Breast Cancer
+116;Hematology
+117;autoimmune diseases
+118;autoimmune diseases
+119;Breast Cancer
+120;Breast Cancer
+121;Breast Cancer
+122;Breast Cancer
+123;Breast Cancer
+124;Breast Cancer
+125;Plastic Surgery
+126;Alternative Medicine
+127;genomics
+128;laboratory analysis
+129;Breast Cancer
+130;Breast Cancer
+131;Breast Cancer
+132;Cancer
+133;Cancer
+134;General Health
+135;Breast Cancer
+136;Breast Cancer
+137;Breast Cancer
+138;Breast Cancer
+139;biomedical engineering
+140;Breast Cancer
+141;Breast Cancer
+142;Breast Cancer
+143;Breast Cancer
+144;Neurosurgery
+145;Breast Cancer
+146;Adolescent Health
+147;Breast Cancer
+148;Biotechnology
+149;Breast Cancer
+150;Biotechnology
+151;History of Medicine
+152;Dermatology
+153;Cancer
+154;Breast Cancer
+155;Breast Cancer
+156;Breast Cancer
+157;Breast Cancer
+158;Breast Cancer
+159;Breast Cancer
+160;Andrology
+161;Breast Cancer
+162;Breast Cancer
+163;Alternative Medicine
+164;Cancer
+165;Breast Cancer
+166;Cancer
+167;Breast Cancer
+168;Breast Cancer
+169;Cancer
+170;Breast Cancer
+171;Cancer
+172;Breast Cancer
+173;Breast Cancer
+174;Cancer
+175;Breast Cancer
+176;Breast Cancer
+177;Breast Cancer
+178;Breast Cancer
+179;Clinical cases
+180;Breast Cancer
+181;Cancer
+182;Breast Cancer
+183;Breast Cancer
+184;Rehabilitation
+185;Breast Cancer
+186;Hematology
+187;Cancer
+188;Breast Cancer
+189;Breast Cancer
+190;Cancer
+191;Apoptosis
+192;Cancer
+193;Breast Cancer
+194;Cancer
+195;Breast Cancer
+196;Breast Cancer
+197;Breast Cancer
+198;autoimmune diseases
+199;Breast Cancer
+200;Breast Cancer
+201;Breast Cancer
+202;Breast Cancer
+203;Breast Cancer
+204;Bioinformatics
+205;Adolescent Health
+206;genomics
+207;Cancer
+208;Breast Cancer
+209;Breast Cancer
+210;Breast Cancer
+211;Breast Cancer
+212;Hematology
+213;Breast Cancer
+214;Breast Cancer
+215;Breast Cancer
+216;Breast Cancer
+217;Breast Cancer
+218;Biomedicine
+219;Breast Cancer
+220;Breast Cancer
+221;Breast Cancer
+222;Breast Cancer
+223;General Health
+224;Breast Cancer
+225;Breast Cancer
+226;Breast Cancer
+227;History of Medicine
+228;Cancer
+229;Cancer
+230;Breast Cancer
+231;Breast Cancer
+232;pediatria
+233;Neurology
+234;Breast Cancer
+235;Breast Cancer
+236;autoimmune diseases
+237;Breast Cancer
+238;Cancer
+239;Breast Cancer
+240;Breast Cancer
+241;Breast Cancer
+242;Breast Cancer
+243;Breast Cancer
+244;pharmaceutical
+245;Alternative Medicine
+246;health services
+247;Breast Cancer
+248;Breast Cancer
+249;Breast Cancer
+250;Breast Cancer
+251;Breast Cancer
+252;biochemistry
+253;biochemistry
+254;Breast Cancer
+255;Cancer
+256;Breast Cancer
+257;Breast Cancer
+258;Breast Cancer
+259;Breast Cancer
+260;Pulmonology
+261;Breast Cancer
+262;radiology
+263;Breast Cancer
+264;Breast Cancer
+265;Alternative Medicine
+266;Breast Cancer
+267;Cancer
+268;Andrology
+269;Breast Cancer
+270;Cancer
+271;Breast Cancer
+272;Breast Cancer
+273;Cancer
+274;Breast Cancer
+275;Obstetrics and gynaecology
+276;Alternative Medicine
+277;Breast Cancer
+278;Alternative Medicine
+279;Breast Cancer
+280;Breast Cancer
+281;Breast Cancer
+282;Breast Cancer
+283;health information tecnology
+284;Adolescent Health
+285;Breast Cancer
+286;Breast Cancer
+287;Cancer
+288;Clinical cases
+289;General Health
+290;General Health
+291;Breast Cancer
+292;Breast Cancer
+293;Breast Cancer
+294;Breast Cancer
+295;Bioinformatics
+296;Hematology
+297;Maxillofacial Surgery
+298;Gastroenterology
+299;Breast Cancer
+300;Cancer
+301;Breast Cancer
+302;Breast Cancer
+303;Breast Cancer
+304;Cancer
+305;Andrology
+306;Breast Cancer
+307;Veterinary
+308;Breast Cancer
+309;Breast Cancer
+310;Breast Cancer
+311;Breast Cancer
+312;Breast Cancer
+313;Breast Cancer
+314;Breast Cancer
+315;gerontology
+316;Breast Cancer
+317;Cancer
+318;Breast Cancer
+319;Alternative Medicine
+320;Bioinformatics
+321;Breast Cancer
+322;Breast Cancer
+323;Breast Cancer
+324;Cancer
+325;Breast Cancer
+326;Breast Cancer
+327;Cancer
+328;clinical studies
+329;autoimmune diseases
+330;Cancer
+331;Cancer
+332;Breast Cancer
+333;Breast Cancer
+334;Breast Cancer
+335;Breast Cancer
+336;Breast Cancer
+337;Cancer
+338;Breast Cancer
+339;Cancer
+340;Breast Cancer
+341;Breast Cancer
+342;Breast Cancer
+343;Breast Cancer
+344;Breast Cancer
+345;Cancer
+346;Breast Cancer
+347;Breast Cancer
+348;Breast Cancer
+349;Breast Cancer
+350;Breast Cancer
+351;Breast Cancer
+352;Breast Cancer
+353;Breast Cancer
+354;Cancer
+355;Breast Cancer
+356;Cancer
+357;Cancer
+358;Cancer
+359;History of Medicine
+360;Breast Cancer
+361;Clinical cases
+362;Breast Cancer
+363;Cancer
+364;Breast Cancer
+365;Breast Cancer
+366;Breast Cancer
+367;Clinical cases
+368;Plastic Surgery
+369;gerontology
+370;Breast Cancer
+371;Breast Cancer
+372;Andrology
+373;Breast Cancer
+374;Breast Cancer
+375;gerontology
+376;Breast Cancer
+377;Breast Cancer
+378;Breast Cancer
+379;Breast Cancer
+380;Breast Cancer
+381;Breast Cancer
+382;Breast Cancer
+383;Blood Canver
+384;Cancer
+385;Breast Cancer
+386;Breast Cancer
+387;Cancer
+388;Developmental Biology
+389;Breast Cancer
+390;Breast Cancer
+391;Cancer
+392;Womens Health
+393;Breast Cancer
+394;Cancer
+395;Breast Cancer
+396;Breast Cancer
+397;Breast Cancer
+398;autoimmune diseases
+399;Hematology
+400;Breast Cancer
+401;Gastroenterology
+402;General Health
+403;Breast Cancer
+404;Cancer
+405;Breast Cancer
+406;Breast Cancer
+407;Breast Cancer
+408;Cancer
+409;Cancer
+410;Breast Cancer
+411;genomics
+412;Breast Cancer
+413;genomics
+414;General Health
+415;Breast Cancer
+416;Breast Cancer
+417;Cancer
+418;Cancer
+419;Breast Cancer
+420;Developmental Biology
+421;Breast Cancer
+422;Breast Cancer
+423;Breast Cancer
+424;Breast Cancer
+425;Breast Cancer
+426;Breast Cancer
+427;Breast Cancer
+428;Adolescent Health
+429;Breast Cancer
+430;Breast Cancer
+431;Breast Cancer
+432;Breast Cancer
+433;Breast Cancer
+434;Breast Cancer
+435;Breast Cancer
+436;Breast Cancer
+437;Breast Cancer
+438;Breast Cancer
+439;Breast Cancer
+440;Breast Cancer
+441;Breast Cancer
+442;Veterinary
+443;Bioinformatics
+444;Breast Cancer
+445;Breast Cancer
+446;Breast Cancer
+447;Breast Cancer
+448;Breast Cancer
+449;Cancer
+450;General Health
+451;Clinical cases
+452;Breast Cancer
+453;Breast Cancer
+454;General Health
+455;Breast Cancer
+456;Breast Cancer
+457;Oral Health
+458;Breast Cancer
+459;Breast Cancer
+460;Breast Cancer
+461;Cancer
+462;Breast Cancer
+463;Cancer
+464;autoimmune diseases
+465;Breast Cancer
+466;Ayurveda
+467;Breast Cancer
+468;Breast Cancer
+469;Breast Cancer
+470;Breast Cancer
+471;Breast Cancer
+472;Breast Cancer
+473;Breast Cancer
+474;Breast Cancer
+475;Breast Cancer
+476;Breast Cancer
+477;Breast Cancer
+478;Breast Cancer
+479;Cancer
+480;Breast Cancer
+481;Breast Cancer
+482;Developmental Biology
+483;Breast Cancer
+484;Cancer
+485;Breast Cancer
+486;Cancer
+487;Breast Cancer
+488;Breast Cancer
+489;Plastic Surgery
+490;Breast Cancer
+491;Cancer
+492;Bioinformatics
+493;Breast Cancer
+494;gerontology
+495;Hematology
+496;Apoptosis
+497;Bioinformatics
+498;Breast Cancer
+499;Breast Cancer
+500;Breast Cancer
+501;Gastroenterology
+502;Breast Cancer
+503;Breast Cancer
+504;autoimmune diseases
+505;Breast Cancer
+506;Breast Cancer
+507;Breast Cancer
+508;Breast Cancer
+509;Infectious Diseases
+510;Breast Cancer
+511;radiology
+512;Breast Cancer
+513;health services
+514;Breast Cancer
+515;General Health
+516;Adolescent Health
+517;Breast Cancer
+518;Breast Cancer
+519;Cancer
+520;Breast Cancer
+521;Breast Cancer
+522;Breast Cancer
+523;Clinical cases
+524;Breast Cancer
+525;Breast Cancer
+526;Breast Cancer
+527;radiology
+528;Breast Cancer
+529;General Health
+530;Breast Cancer
+531;Breast Cancer
+532;Breast Cancer
+533;Breast Cancer
+534;Rehabilitation
+535;Breast Cancer
+536;Breast Cancer
+537;Breast Cancer
+538;autoimmune diseases
+539;Breast Cancer
+540;Alternative Medicine
+541;radiology
+542;General Health
+543;nanoscience
+544;Plastic Surgery
+545;psychosomatic disorders
+546;Autophagy
+547;Cancer
+548;General Health
+549;Gastroenterology
+550;Breast Cancer
+551;Blood Canver
+552;General Health
+553;Breast Cancer
+554;Gastroenterology
+555;Breast Cancer
+556;Breast Cancer
+557;Breast Cancer
+558;Breast Cancer
+559;Breast Cancer
+560;Cancer
+561;biochemistry
+562;biochemistry
+563;Breast Cancer
+564;Breast Cancer
+565;Breast Cancer
+566;Breast Cancer
+567;Breast Cancer
+568;Breast Cancer
+569;General Health
+570;Breast Cancer
+571;Cancer
+572;autoimmune diseases
+573;Breast Cancer
+574;Breast Cancer
+575;Breast Cancer
+576;Breast Cancer
+577;Bioinformatics
+578;Bioinformatics
+579;Breast Cancer
+580;Breast Cancer
+581;Cancer
+582;Breast Cancer
+583;Cancer
+584;pediatria
+585;Breast Cancer
+586;autoimmune diseases
+587;Breast Cancer
+588;Cancer
+589;Breast Cancer
+590;Bioinformatics
+591;Hematology
+592;autoimmune diseases
+593;Breast Cancer
+594;Maxillofacial Surgery
+595;Cancer
+596;Urology
+597;Breast Cancer
+598;Clinical cases
+599;Clinical cases
+600;Breast Cancer
+601;History of Medicine
+602;Alternative Medicine
+603;Breast Cancer
+604;Breast Cancer
+605;Breast Cancer
+606;Breast Cancer
+607;Cancer
+608;Breast Cancer
+609;Breast Cancer
+610;Breast Cancer
+611;Breast Cancer
+612;Breast Cancer
+613;Breast Cancer
+614;Breast Cancer
+615;autoimmune diseases
+616;Breast Cancer
+617;Breast Cancer
+618;Breast Cancer
+619;Breast Cancer
+620;Breast Cancer
+621;Breast Cancer
+622;Breast Cancer
+623;Bioinformatics
+624;Breast Cancer
+625;Breast Cancer
+626;Breast Cancer
+627;Breast Cancer
+628;Breast Cancer
+629;Cancer
+630;Cancer
+631;Cancer
+632;Coloproctology
+633;Cancer
+634;Cancer
+635;Breast Cancer
+636;Breast Cancer
+637;Breast Cancer
+638;Clinical cases
+639;Breast Cancer
+640;pharmacology
+641;pharmacology
+642;Breast Cancer
+643;Alternative Medicine
+644;Breast Cancer
+645;Breast Cancer
+646;Breast Cancer
+647;Breast Cancer
+648;Andrology
+649;Breast Cancer
+650;Breast Cancer
+651;Clinical cases
+652;Cancer
+653;Breast Cancer
+654;Breast Cancer
+655;Breast Cancer
+656;Breast Cancer
+657;Breast Cancer
+658;Adolescent Health
+659;Breast Cancer
+660;Breast Cancer
+661;Breast Cancer
+662;Breast Cancer
+663;Breast Cancer
+664;gastroenterology
+665;Alternative Medicine
+666;Breast Cancer
+667;Breast Cancer
+668;Breast Cancer
+669;biomedical engineering
+670;Breast Cancer
+671;Cancer
+672;Breast Cancer
+673;Breast Cancer
+674;Breast Cancer
+675;Oral Health
+676;Breast Cancer
+677;Cancer
+678;General Health
+679;Breast Cancer
+680;Biotechnology
+681;Cancer
+682;Breast Cancer
+683;Breast Cancer
+684;Breast Cancer
+685;Breast Cancer
+686;radiology
+687;Breast Cancer
+688;Cancer
+689;Breast Cancer
+690;Breast Cancer
+691;Breast Cancer
+692;Breast Cancer
+693;Breast Cancer
+694;Breast Cancer
+695;Breast Cancer
+696;Breast Cancer
+697;Breast Cancer
+698;Breast Cancer
+699;Breast Cancer
+700;Breast Cancer
+701;Breast Cancer
+702;Breast Cancer
+703;Breast Cancer
+704;Breast Cancer
+705;Hematology
+706;Breast Cancer
+707;Breast Cancer
+708;biomedical engineering
+709;Breast Cancer
+710;autoimmune diseases
+711;Breast Cancer
+712;Breast Cancer
+713;Blood Canver
+714;Autophagy
+715;genomics
+716;genomics
+717;Breast Cancer
+718;Breast Cancer
+719;Breast Cancer
+720;Breast Cancer
+721;Hematology
+722;Oral Health
+723;Breast Cancer
+724;Breast Cancer
+725;Breast Cancer
+726;Breast Cancer
+727;Breast Cancer
+728;Breast Cancer
+729;Breast Cancer
+730;Breast Cancer
+731;Cancer
+732;Breast Cancer
+733;Breast Cancer
+734;Breast Cancer
+735;Breast Cancer
+736;Cancer
+737;Cancer
+738;Ophthalmology
+739;Breast Cancer
+740;Breast Cancer
+741;General Health
+742;Breast Cancer
+743;Breast Cancer
+744;Breast Cancer
+745;gastroenterology
+746;Breast Cancer
+747;Cancer
+748;Breast Cancer
+749;Breast Cancer
+750;Breast Cancer
+751;Breast Cancer
+752;Breast Cancer
+753;Breast Cancer
+754;autoimmune diseases
+755;autoimmune diseases
+756;Cancer
+757;Breast Cancer
+758;Breast Cancer
+759;Breast Cancer
+760;Cancer
+761;Breast Cancer
+762;Breast Cancer
+763;Breast Cancer
+764;Cancer
+765;Breast Cancer
+766;autoimmune diseases
+767;autoimmune diseases
+768;Breast Cancer
+769;Breast Cancer
+770;Breast Cancer
+771;genomics
+772;Plastic Surgery
+773;biomedical engineering
+774;Cancer
+775;laboratory analysis
+776;Adolescent Health
+777;Breast Cancer
+778;Breast Cancer
+779;Breast Cancer
+780;Breast Cancer
+781;Breast Cancer
+782;Cancer
+783;Cancer
+784;Breast Cancer
+785;Breast Cancer
+786;Breast Cancer
+787;health information tecnology
+788;Bioinformatics
+789;Breast Cancer
+790;Breast Cancer
+791;Neurology
+792;Breast Cancer
+793;Breast Cancer
+794;Breast Cancer
+795;Breast Cancer
+796;Breast Cancer
+797;Breast Cancer
+798;Breast Cancer
+799;Cancer
+800;Cancer
+801;Breast Cancer
+802;Breast Cancer
+803;Breast Cancer
+804;Veterinary
+805;Cancer
+806;Breast Cancer
+807;Cancer
+808;Breast Cancer
+809;Breast Cancer
+810;Breast Cancer
+811;Breast Cancer
+812;Cancer
+813;Breast Cancer
+814;radiology
+815;Hematology
+816;Breast Cancer
+817;Breast Cancer
+818;Breast Cancer
+819;Breast Cancer
+820;Breast Cancer
+821;Breast Cancer
+822;General Health
+823;Breast Cancer
+824;Breast Cancer
+825;Breast Cancer
+826;Breast Cancer
+827;Breast Cancer
+828;Cancer
+829;Breast Cancer
+830;Breast Cancer
+831;Breast Cancer
+832;Breast Cancer
+833;Breast Cancer
+834;Cancer
+835;Breast Cancer
+836;Breast Cancer
+837;Cancer
+838;Cancer
+839;Breast Cancer
+840;Obstetrics and gynaecology
+841;Breast Cancer
+842;Developmental Biology
+843;health services
+844;Breast Cancer
+845;Breast Cancer
+846;Neurosurgery
+847;Coloproctology
+848;Breast Cancer
+849;Breast Cancer
+850;Breast Cancer
+851;Breast Cancer
+852;autoimmune diseases
+853;Breast Cancer
+854;Cancer
+855;Cancer
+856;Breast Cancer
+857;Breast Cancer
+858;Breast Cancer
+859;Breast Cancer
+860;Infectious Diseases
+861;Cancer
+862;Gastroenterology
+863;Breast Cancer
+864;Cancer
+865;Breast Cancer
+866;Breast Cancer
+867;Andrology
+868;Breast Cancer
+869;Breast Cancer
+870;Breast Cancer
+871;Breast Cancer
+872;pharmacology
+873;Cancer
+874;Cancer
+875;Breast Cancer
+876;Cancer
+877;General Health
+878;General Health
+879;Breast Cancer
+880;Cancer
+881;Breast Cancer
+882;Breast Cancer
+883;Breast Cancer
+884;Breast Cancer
+885;Breast Cancer
+886;Alternative Medicine
+887;Breast Cancer
+888;Breast Cancer
+889;Breast Cancer
+890;Breast Cancer
+891;Breast Cancer
+892;Breast Cancer
+893;Breast Cancer
+894;Breast Cancer
+895;Breast Cancer
+896;Cancer
+897;autoimmune diseases
+898;Cancer
+899;Breast Cancer
+900;genomics
+901;Cancer
+902;Cancer
+903;Breast Cancer
+904;Breast Cancer
+905;Breast Cancer
+906;Breast Cancer
+907;Breast Cancer
+908;Breast Cancer
+909;Breast Cancer
+910;Breast Cancer
+911;Breast Cancer
+912;Breast Cancer
+913;Breast Cancer
+914;Breast Cancer
+915;Breast Cancer
+916;Breast Cancer
+917;Amino Acids
+918;Cancer
+919;Breast Cancer
+920;Breast Cancer
+921;genomics
+922;Breast Cancer
+923;Breast Cancer
+924;Breast Cancer
+925;Breast Cancer
+926;Breast Cancer
+927;Cancer
+928;Breast Cancer
+929;Breast Cancer
+930;Cancer
+931;Cancer
+932;Breast Cancer
+933;Cancer
+934;Breast Cancer
+935;Breast Cancer
+936;autoimmune diseases
+937;Breast Cancer
+938;Cancer
+939;Breast Cancer
+940;Breast Cancer
+941;Breast Cancer
+942;Breast Cancer
+943;Breast Cancer
+944;Breast Cancer
+945;Breast Cancer
+946;Breast Cancer
+947;Breast Cancer
+948;Biotechnology
+949;Breast Cancer
+950;laboratory analysis
+951;Breast Cancer
+952;Hematology
+953;Breast Cancer
+954;Breast Cancer
+955;Womens Health
+956;Breast Cancer
+957;Breast Cancer
+958;gerontology
+959;pharmaceutical
+960;Bioinformatics
+961;Breast Cancer
+962;Breast Cancer
+963;Cancer
+964;Breast Cancer
+965;History of Medicine
+966;Breast Cancer
+967;Urology
+968;Breast Cancer
+969;Breast Cancer
+970;Breast Cancer
+971;Andrology
+972;Breast Cancer
+973;Breast Cancer
+974;Breast Cancer
+975;General Health
+976;nanoscience
+977;Clinical cases
+978;Breast Cancer
+979;Pulmonology
+980;Breast Cancer
+981;Breast Cancer
+982;Cancer
+983;pharmacology
+984;Hematology
+985;pharmacology
+986;radiology
+987;autoimmune diseases
+988;Clinical cases
+989;Breast Cancer
+990;Bioinformatics
+991;Cancer
+992;Biomedicine
+993;pediatria
+994;Breast Cancer
+995;Cancer
+996;Breast Cancer
+997;Breast Cancer
+998;Breast Cancer
+999;Clinical cases
+1000;Alternative Medicine
+1001;Breast Cancer
+1002;Breast Cancer
+1003;Breast Cancer
+1004;Breast Cancer
+1005;Breast Cancer
+1006;Breast Cancer
+1007;Biotechnology
+1008;autoimmune diseases
+1009;Andrology
+1010;Neurosurgery
+1011;Breast Cancer
+1012;Breast Cancer
+1013;Breast Cancer
+1014;Bioinformatics
+1015;Andrology
+1016;Breast Cancer
+1017;pharmaceutical
+1018;autoimmune diseases
+1019;Adolescent Health
+1020;Biotechnology
+1021;Breast Cancer
+1022;Cancer
+1023;Breast Cancer
+1024;Breast Cancer
+1025;Breast Cancer
+1026;Breast Cancer
+1027;Breast Cancer
+1028;pharmaceutical
+1029;Amino Acids
+1030;Breast Cancer
+1031;Cancer
+1032;Breast Cancer
+1033;Breast Cancer
+1034;Oral Health
+1035;Breast Cancer
+1036;Breast Cancer
+1037;Breast Cancer
+1038;Dermatology
+1039;Surgery
+1040;Ophthalmology
+1041;Ophthalmology
+1042;Alternative Medicine
+1043;Breast Cancer
+1044;Alternative Medicine
+1045;Cancer
+1046;Breast Cancer
+1047;Breast Cancer
+1048;Cancer
+1049;Breast Cancer
+1050;Breast Cancer
+1051;Breast Cancer
+1052;Breast Cancer
+1053;Breast Cancer
+1054;Breast Cancer
+1055;Hematology
+1056;Breast Cancer
+1057;Clinical cases
+1058;Cancer
+1059;Breast Cancer
+1060;Breast Cancer
+1061;Breast Cancer
+1062;Breast Cancer
+1063;Breast Cancer
+1064;Breast Cancer
+1065;biochemistry
+1066;Breast Cancer
+1067;Breast Cancer
+1068;Breast Cancer
+1069;Breast Cancer
+1070;Cancer
+1071;Breast Cancer
+1072;Breast Cancer
+1073;Coloproctology
+1074;Cancer
+1075;Breast Cancer
+1076;Surgery
+1077;Alternative Medicine
+1078;Breast Cancer
+1079;Breast Cancer
+1080;autoimmune diseases
+1081;Breast Cancer
+1082;Breast Cancer
+1083;Autophagy
+1084;Clinical cases
+1085;Breast Cancer
+1086;Cancer
+1087;Breast Cancer
+1088;Breast Cancer
+1089;Breast Cancer
+1090;Breast Cancer
+1091;Breast Cancer
+1092;Breast Cancer
+1093;Breast Cancer
+1094;Breast Cancer
+1095;Autophagy
+1096;Breast Cancer
+1097;Breast Cancer
+1098;Clinical cases
+1099;Breast Cancer
+1100;Breast Cancer
+1101;Breast Cancer
+1102;Breast Cancer
+1103;Breast Cancer
