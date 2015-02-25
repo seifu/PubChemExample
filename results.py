@@ -5,7 +5,7 @@ __author__ = 'sjc294@psu.edu'
 
 
 def read_results(filename):
-    print filename
+    print(filename)
     results = []
     with open(filename, 'rb') as csvfile:
         reader = csv.reader(csvfile)
@@ -18,13 +18,13 @@ def main():
     """This code expects you to read a well formatted CSV file that will be used to make an adjacency matrix. The key
     here is that the CSV has indicies according to the KWD as the final column of 4.
     """
-    my_results = read_results("C:\Users\ToastyDelight\PycharmProjects\PubMedExample\chemo_AB_results.csv")
-    print len(my_results)
-    print len(my_results[0])
-    print my_results[0]
+    my_results = read_results("C:\\Users\\ToastyDelight\\PycharmProjects\\PubMedExample\\chemo_AB_results.csv")
+    print(len(my_results))
+    print(len(my_results[0]))
+    print(my_results[0])
 
     #dim_size = len(my_results)
-    dim_size = 1104
+    dim_size = 4955 #This is the number of unique keywords
     mymatrix = np.zeros((dim_size, dim_size))
     #print matrix
 

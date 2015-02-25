@@ -23,7 +23,7 @@ def read_file(filename):
 
 if __name__ == "__main__":
 
-    filelist = get_files("C:\\SeifusFiles\\Research\\Cheminformatics\\Data\\PMC\\AB")
+    filelist = get_files("C:\\SeifusFiles\\Research\\Cheminformatics\\Data\\PMC\\OZ")
 
     #filelist = ['C:\\SeifusFiles\\Research\\Cheminformatics\\Data\\IN\\Icarus\\Icarus_2011_Dec_216(2)_476-484.nxml']
 
@@ -58,13 +58,13 @@ if __name__ == "__main__":
 
             seq = (t, title, article_type, year)
             out_text = ",".join(seq)
-            with open("CorpusStats_AB.txt", "ab+") as myoutput:
+            with open("CorpusStats_OZ.txt", "ab+") as myoutput:
                 myoutput.write(bytes(out_text+"\n", 'UTF-8'))
 
         except Exception as ex:
             template = "an exception of type {0}. Arguments:\n{1!r}"
             message = template.format(type(ex).__name__, ex.args)
-            with open("CorpusStats_errors_AB.txt", "ab") as myoutput:
+            with open("CorpusStats_errors_OZ.txt", "ab") as myoutput:
                         err_string = t + " caused " + message
                         myoutput.write(bytes(err_string+"\n", 'UTF-8'))
             continue
